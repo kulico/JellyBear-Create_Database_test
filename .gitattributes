@@ -1,0 +1,2 @@
+dbca -silent -createDatabase -templateName General_Purpose.dbc -gdbName littleDB -sid littleDB -createAsContainerDatabase false -SysPassword welcome1 -SystemPassword welcome1 -emConfiguration NONE -storageType FS -characterSet TH8TISASCII -memoryPercentage 40
+
